@@ -32,6 +32,4 @@ A statistical analysis of socioeconomic factors associated with auto theft acros
 [View project](这里以后替换成项目链接)
 
 ## Contact
-
-- LinkedIn: 添加你的LinkedIn链接
-- Email: 建议使用求职专用邮箱
+- Email: kzho0627@163.com
