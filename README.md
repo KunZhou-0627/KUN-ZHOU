@@ -24,12 +24,12 @@ Analysis of public transport accessibility and service inequality across Victori
 ### AI Transformation for Extreme Weather Warning
 A business analysis proposal for AI-assisted warning and decision support at the Australian Bureau of Meteorology.
 
-[View project](这里以后替换成项目链接)
+[View project](https://github.com/KunZhou-0627/victorian-public-transport-inequality-explorer-Visiualization-)
 
 ### Toronto Auto Theft Regression Analysis
 A statistical analysis of socioeconomic factors associated with auto theft across Toronto neighbourhoods.
 
-[View project](这里以后替换成项目链接)
+[View project] Not Available Now(这里以后替换成项目链接)
 
 ## Contact
 - Email: kzho0627@163.com
