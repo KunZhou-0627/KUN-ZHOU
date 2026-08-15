@@ -19,7 +19,7 @@ visualisations and practical recommendations.
 ### Victorian Public Transport Accessibility Analysis
 Analysis of public transport accessibility and service inequality across Victorian LGAs.
 
-[View project](这里以后替换成项目链接)
+[View project](victoria-public-transport-accessibility--)
 
 ### AI Transformation for Extreme Weather Warning
 A business analysis proposal for AI-assisted warning and decision support at the Australian Bureau of Meteorology.
